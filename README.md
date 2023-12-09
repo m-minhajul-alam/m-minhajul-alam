@@ -1,6 +1,9 @@
-### Hi there 👋
+<a href="https://www.linkedin.com/in/muhammad-minhajul-alam-b66767256/">
+<img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/main/assets/banner/minhaul_alam_banner.jpg" />
+</a>
 
-![Muhammad Minhajul ALam](https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/main/assets/banner/minhaul_alam_banner.jpg "Muhammad Minhajul Alam github banner")
+## Current Stats
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
