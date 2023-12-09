@@ -1,6 +1,11 @@
 <img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/main/assets/banner/minhaul_alam_banner.jpg" alt="Muhammad Minhajul Alam github banner" />
 
 <br>
+<h2 align="center">Ab<ins>out</ins>Me</h2>
+ 
+<p align="center">Hello 👋 there! I'm Minhaj, a self-motivated and enthusiastic web developer passionate about crafting meaningful digital experiences. With a focus on the MERN stack, I thrive on turning ideas into innovative and scalable solutions.</p>
+
+<br>
 <h2 align="center">Cu<ins>rrentOvervi</ins>ew</h2>
  
 <p align="center">🔭 Currently working on: Exciting projects using the MERN stack. || 🌱 Currently learning: Advanced React.js concepts to enhance my frontend skills. || 👯 Looking to collaborate on: Open-source projects and innovative web applications. || 🤔 Looking for help with: Scaling and optimizing backend solutions in Node.js. || 💬 Ask me about: Web development, MERN stack, and building scalable web applications. || 📫 How to reach me: minhajulalam.muhammad@gmail.com || ⚡ Fun fact: Coding fuels my creativity, and I enjoy exploring new technologies. 🚀</p>
