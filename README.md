@@ -39,7 +39,24 @@
 </a>
 </div>
 
+📈 **Stats:**
+   [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-minhajul-alam&show_icons=true)](https://github.com/m-minhajul-alam)
 
+<br>
+<h2 align="center">Cu<ins>rrentOvervi</ins>ew</h2>
+ 
+<duv align="center">
+<p>🔭 I’m currently working on Care-Camp project</p>
+<p>🌱 I’m currently learning JWT, Mongoose, Material UI</p>
+<p>💼 I’m looking to a </p>
+<p>🤔 I’m looking for help with ...</p>
+<p>💬 Ask me about ...</p>
+<p>📫 How to reach me: ...</p>
+<p>😄 Pronouns: ...</p>
+<p>⚡ Fun fact: ...</p>
+</div>
+
+<!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -47,4 +64,4 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
