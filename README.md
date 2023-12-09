@@ -4,9 +4,9 @@
 
 ## Current Stats
 
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=m-minhajul-alam&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=502" alt="GitHub Streak" />
-
+<p align="center">
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=m-minhajul-alam&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=502" alt="GitHub Streak" />
+</p>
 
 <br>
 
