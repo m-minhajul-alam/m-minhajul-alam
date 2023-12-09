@@ -4,6 +4,7 @@
 
 ## Current Stats
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=m-minhajul-alam&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=502" alt="GitHub Streak" /></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
