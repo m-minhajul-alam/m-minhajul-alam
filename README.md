@@ -39,8 +39,6 @@
 </a>
 </div>
 
-📈 **Stats:**
-   [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-minhajul-alam&show_icons=true)](https://github.com/m-minhajul-alam)
 
 <br>
 <h2 align="center">Cu<ins>rrentOvervi</ins>ew</h2>
