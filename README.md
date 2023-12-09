@@ -2,13 +2,20 @@
 <img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/main/assets/banner/minhaul_alam_banner.jpg" alt="Muhammad Minhajul Alam github banner" />
 </a>
 
-## Current Stats
+<br>
+
+<center>
+<h2>Cu<ins>rrent Sta</ins>ts</h2>
+</center>
 
 <div align="center">
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=m-minhajul-alam&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=502" alt="GitHub Streak" />
 </div>
 
-## Technologies
+<br>
+<center>
+<h2>Te<ins>chnologi</ins>es</h2>
+</center>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/main/assets/icons/mongo.png"/>
