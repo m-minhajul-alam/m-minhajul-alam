@@ -28,8 +28,8 @@
 </div>
 
 <br>
-<h2 align="center">C<ins>onnec</ins>t</h2>
-
+<h2 align="center">So<ins>cialMed</ins>ia</h2>
+ 
 <div align="center">
 <a href="https://www.facebook.com/profile.php?id=100076427079652">
 <img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/86271efdaa79360b1db6c98c4c8dcc3995c019c0/assets/icons/social-icons/facebook.svg"/>
