@@ -1,10 +1,14 @@
 <a href="https://www.linkedin.com/in/muhammad-minhajul-alam-b66767256/">
-<img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/main/assets/banner/minhaul_alam_banner.jpg" />
+<img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/main/assets/banner/minhaul_alam_banner.jpg" alt="Muhammad Minhajul Alam github banner" />
 </a>
 
 ## Current Stats
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=m-minhajul-alam&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=502" alt="GitHub Streak" /></a>
+<center>
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=m-minhajul-alam&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=502" alt="GitHub Streak" />
+</center>
+
+<br>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
