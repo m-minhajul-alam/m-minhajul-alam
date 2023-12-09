@@ -39,22 +39,13 @@
 </a>
 </div>
 
-
 <br>
 <h2 align="center">Cu<ins>rrentOvervi</ins>ew</h2>
  
-<duv align="center">
-<p>🔭 I’m currently working on Care-Camp project</p>
-<p>🌱 I’m currently learning JWT, Mongoose, Material UI</p>
-<p>💼 I’m looking to a </p>
-<p>🤔 I’m looking for help with ...</p>
-<p>💬 Ask me about ...</p>
-<p>📫 How to reach me: ...</p>
-<p>😄 Pronouns: ...</p>
-<p>⚡ Fun fact: ...</p>
-</div>
 
-<!-- 
+<p align="center">🔭 Currently working on: Exciting projects using the MERN stack. || 🌱 Currently learning: Advanced React.js concepts to enhance my frontend skills. || 👯 Looking to collaborate on: Open-source projects and innovative web applications. || 🤔 Looking for help with: Scaling and optimizing backend solutions in Node.js. || 💬 Ask me about: Web development, MERN stack, and building scalable web applications. || 📫 How to reach me: minhajulalam.muhammad@gmail.com || ⚡ Fun fact: Coding fuels my creativity, and I enjoy exploring new technologies. 🚀</p>
+
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
