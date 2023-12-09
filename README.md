@@ -4,31 +4,27 @@
 
 <br>
 
-<center>
-<h2>Cu<ins>rrent Sta</ins>ts</h2>
-</center>
+<h2 style="text-align:center">Cu<ins>rrent Sta</ins>ts</h2>
 
-<div align="center">
+<div style="text-align:center">
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=m-minhajul-alam&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=502" alt="GitHub Streak" />
 </div>
 
 <br>
-<center>
-<h2>Te<ins>chnologi</ins>es</h2>
-</center>
+<h2 style="text-align:center">Te<ins>chnologi</ins>es</h2>
 
-<div align="center">
+<div style="text-align:center">
 <img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/main/assets/icons/mongo.png"/>
 <img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/main/assets/icons/express.png"/>
 <img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/main/assets/icons/react.png"/>
 <img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/main/assets/icons/node.png"/>
 </div>
-<div align="center">
+<div style="text-align:center">
 <img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/main/assets/icons/HTML.png"/>
 <img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/main/assets/icons/JavaScript.png"/>
 <img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/main/assets/icons/css.png"/>
 </div>
-<div align="center">
+<div style="text-align:center">
 <img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/main/assets/icons/firebase.png"/>
 <img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/main/assets/icons/tailwind.png"/>
 </div>
