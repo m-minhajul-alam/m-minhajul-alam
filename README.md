@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Muhammad Minhajul ALam](https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/main/assets/banner/minhaul_alam_banner.jpg "Muhammad Minhajul Alam github banner")
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
