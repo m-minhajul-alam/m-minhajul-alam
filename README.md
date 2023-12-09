@@ -1,6 +1,4 @@
-<a href="https://www.linkedin.com/in/muhammad-minhajul-alam-b66767256/">
 <img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/main/assets/banner/minhaul_alam_banner.jpg" alt="Muhammad Minhajul Alam github banner" />
-</a>
 
 <br>
 
@@ -27,6 +25,18 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/main/assets/icons/firebase.png"/>
 <img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/main/assets/icons/tailwind.png"/>
+</div>
+
+<br>
+<h2 align="center">C<ins>onnec</ins>t</h2>
+
+<div align="center">
+<a href="https://www.facebook.com/profile.php?id=100076427079652">
+<img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/86271efdaa79360b1db6c98c4c8dcc3995c019c0/assets/icons/social-icons/facebook.svg"/>
+</a>
+<a href="https://www.linkedin.com/in/muhammad-minhajul-alam-b66767256/">
+<img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/86271efdaa79360b1db6c98c4c8dcc3995c019c0/assets/icons/social-icons/linkedin.svg"/>
+</a>
 </div>
 
 
