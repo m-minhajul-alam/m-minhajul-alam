@@ -4,10 +4,10 @@
 
 <br>
 
-<h2 align="center">Cu<ins>rrent Sta</ins>ts</h2>
+<h2 align="center">Cu<ins>rrentSta</ins>ts</h2>
 
 <div align="center">
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=m-minhajul-alam&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=502" alt="GitHub Streak" />
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com?user=m-minhajul-alam&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=502" alt="GitHub Streak" />
 </div>
 
 <br>
