@@ -21,12 +21,12 @@
 <a href="https://www.facebook.com/profile.php?id=100076427079652">
 <img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/86271efdaa79360b1db6c98c4c8dcc3995c019c0/assets/icons/social-icons/facebook.svg"/>
 </a>
-<a href="https://www.linkedin.com/in/muhammad-minhajul-alam-b66767256/">
+<a href="">
 <img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/86271efdaa79360b1db6c98c4c8dcc3995c019c0/assets/icons/social-icons/linkedin.svg"/>
 <a href="https://www.facebook.com/profile.php?id=100076427079652">
 <img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/86271efdaa79360b1db6c98c4c8dcc3995c019c0/assets/icons/social-icons/facebook.svg"/>
 </a>
-<a href="https://www.linkedin.com/in/muhammad-minhajul-alam-b66767256/">
+<a href="">
 <img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/86271efdaa79360b1db6c98c4c8dcc3995c019c0/assets/icons/social-icons/linkedin.svg"/>
 </a>
 </div>
