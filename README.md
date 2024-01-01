@@ -8,7 +8,7 @@
 <br>
 <h2 align="center">Cu<ins>rrentOvervi</ins>ew</h2>
  
-<p align="center">🔭 Currently working on: Exciting projects using the MERN stack. || 🌱 Currently learning: Advanced React.js concepts to enhance my frontend skills. || 👯 Looking to collaborate on: Open-source projects and innovative web applications. || 🤔 Looking for help with: Scaling and optimizing backend solutions in Node.js. || 💬 Ask me about: Web development, MERN stack, and building scalable web applications. || 📫 How to reach me: minhajulalam.muhammad@gmail.com || ⚡ Fun fact: Coding fuels my creativity, and I enjoy exploring new technologies. 🚀</p>
+<p align="center">🔭 Currently working on: Existing projects using the MERN stack. || 🌱 Currently learning: Advanced React.js concepts to enhance my frontend skills. || 👯 Looking to collaborate on: Open-source projects and innovative web applications. || 🤔 Looking for help with: Scaling and optimizing backend solutions in Node.js. || 💬 Ask me about: Web development, MERN stack, and building scalable web applications. || 📫 How to reach me: minhajulalam.muhammad@gmail.com || ⚡ Fun fact: Coding fuels my creativity, and I enjoy exploring new technologies. 🚀</p>
 
 <br>
 <h2 align="center">So<ins>cialMed</ins>ia</h2>
@@ -21,9 +21,6 @@
 <img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/86271efdaa79360b1db6c98c4c8dcc3995c019c0/assets/icons/social-icons/linkedin.svg"/>
 </a>
 
-<a href="https://www.facebook.com/profile.php?id=100076427079652">
-<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/social-icons/portfolio-icon.png"/>
-</a>
 </div>
 
 <br>
