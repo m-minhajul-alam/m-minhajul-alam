@@ -22,7 +22,7 @@
 </a>
 
 <a href="https://www.facebook.com/profile.php?id=100076427079652">
-<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/social-icons/website-64.png"/>
+<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/social-icons/portfolio-icon.png"/>
 </a>
 </div>
 
