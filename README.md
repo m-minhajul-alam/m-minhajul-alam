@@ -3,13 +3,7 @@
 <br>
 <h2 align="center">Ab<ins>out</ins>Me</h2>
  
-<p align="center">Hello 👋 there! I'm Minhaj, I consider myself a dedicated student in the web development field. I've recently finished the basic learnings of React development.
-
-I started my coding journey with basic skills, like HTML, CSS, JavaScript, and React.js. As my starting my main focus is on Front-end development, but I also have a good level of knowledge about Node.js, Express.js, and MongoDB. Currently, I'm Improving my skills in advanced React.js concepts to optimize my Front-end capabilities.
-
-I get inspiration from the joy of continuous learning. My goal is not only to succeed in web development. rather than my goal to contribute to innovative projects that make a positive impact on the digital world or human life.
-
-My core values around morality, continuous learning, and supporting others. I handle tasks with honesty and stay curious. I see challenges as chances for my personal and professional growth.</p>
+<p align="center">Hello 👋 there! I'm Minhaj, I consider myself a dedicated student in the web development field. I've recently finished the basic learnings of React development. I started my coding journey with basic skills, like HTML, CSS, JavaScript, and React.js. As my starting my main focus is on Front-end development, but I also have a good level of knowledge about Node.js, Express.js, and MongoDB. Currently, I'm Improving my skills in advanced React.js concepts to optimize my Front-end capabilities. I get inspiration from the joy of continuous learning. My goal is not only to succeed in web development. rather than my goal to contribute to innovative projects that make a positive impact on the digital world or human life. My core values around morality, continuous learning, and supporting others. I handle tasks with honesty and stay curious. I see challenges as chances for my personal and professional growth.</p>
 
 <br>
 <h2 align="center">Cu<ins>rrentOvervi</ins>ew</h2>
