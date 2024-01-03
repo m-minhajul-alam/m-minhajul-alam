@@ -11,7 +11,7 @@
 <p align="center">🔭 Currently working on: My existing projects to take them next level. || 🌱 Currently learning: Advanced React.js concepts to enhance my frontend skills. || 👯 Looking to collaborate on: Open-source projects and innovative web applications. || 🤔 Looking for help with: Scaling and optimizing backend solutions in Node.js. || 📫 How to reach me: minhajulalam.muhammad@gmail.com || ⚡ Fun fact: Coding fuels my creativity, and I enjoy exploring new technologies. 🚀</p>
 
 <br>
-<h2 align="center">So<ins>cialMed</ins>ia</h2>
+<h2 align="center">Co<ins>ntact</ins>Me</h2>
 <div align="center">
 <a href="https://www.linkedin.com/in/muhammad-minhajul-alam-b66767256/">
 <img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/social-icons/linkedin-40.png"/>
