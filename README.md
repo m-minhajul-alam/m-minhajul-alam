@@ -13,11 +13,11 @@
 <br>
 <h2 align="center">So<ins>cialMed</ins>ia</h2>
 <div align="center">
-<a href="https://www.facebook.com/profile.php?id=100076427079652">
+<a href="https://www.linkedin.com/in/muhammad-minhajul-alam-b66767256/">
 <img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/social-icons/linkedin-40.png"/>
 </a>
 
-<a href="https://www.linkedin.com/in/muhammad-minhajul-alam-b66767256/">
+<a href="https://m-minhajul-alam.surge.sh/">
 <img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/social-icons/website-40.png"/>
 </a>
 </div>
