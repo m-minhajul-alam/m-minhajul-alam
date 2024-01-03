@@ -17,8 +17,8 @@
 <img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/social-icons/linkedin-40.png"/>
 </a>
 
-<a href="https://m-minhajul-alam.surge.sh/">
-<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/social-icons/discord-40.png"/>
+<a href="https://m-minhajul-alam.surge.sh">
+<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/social-icons/website-40.png"/>
 </a>
 
 <a href="mailto:minhajulalam.muhammad@gmail.com?subject=Portfolio%20Inquiry&body=Hello%20Minhajul,%0A%0AI%20came%20across%20your%20portfolio%20and%20would%20like%20to%20inquire%20about...">
