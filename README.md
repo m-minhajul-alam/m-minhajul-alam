@@ -22,11 +22,15 @@
 </a>
 
 <a href="https://m-minhajul-alam.surge.sh/">
-<img src="https://ibb.co/WGV1WpK"/>
+<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/social-icons/email-40.png"/>
 </a>
 
 <a href="https://m-minhajul-alam.surge.sh/">
-<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/social-icons/website-40.png"/>
+<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/social-icons/discord-40.png"/>
+</a>
+
+<a href="https://m-minhajul-alam.surge.sh/">
+<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/social-icons/facebook-40.png"/>
 </a>
 </div>
 
