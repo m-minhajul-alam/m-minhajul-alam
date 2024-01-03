@@ -8,7 +8,7 @@
 <br>
 <h2 align="center">Cu<ins>rrentOvervi</ins>ew</h2>
  
-<p align="center">🔭 Currently working on: Existing projects using the MERN stack. || 🌱 Currently learning: Advanced React.js concepts to enhance my frontend skills. || 👯 Looking to collaborate on: Open-source projects and innovative web applications. || 🤔 Looking for help with: Scaling and optimizing backend solutions in Node.js. || 💬 Ask me about: Web development, MERN stack, and building scalable web applications. || 📫 How to reach me: minhajulalam.muhammad@gmail.com || ⚡ Fun fact: Coding fuels my creativity, and I enjoy exploring new technologies. 🚀</p>
+<p align="center">🔭 Currently working on: My existing projects to take them next level. || 🌱 Currently learning: Advanced React.js concepts to enhance my frontend skills. || 👯 Looking to collaborate on: Open-source projects and innovative web applications. || 🤔 Looking for help with: Scaling and optimizing backend solutions in Node.js. || 📫 How to reach me: minhajulalam.muhammad@gmail.com || ⚡ Fun fact: Coding fuels my creativity, and I enjoy exploring new technologies. 🚀</p>
 
 <br>
 <h2 align="center">So<ins>cialMed</ins>ia</h2>
