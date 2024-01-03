@@ -22,7 +22,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/muhammad-minhajul-alam-b66767256/">
-<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/social-icons/icons8-website-32.png"/>
+<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/social-icons/icons8-website-48.png"/>
 </a>
 
 </div>
