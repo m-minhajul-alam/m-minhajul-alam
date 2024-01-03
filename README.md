@@ -37,11 +37,12 @@
 <br>
 <h2 align="center">Te<ins>chnologi</ins>es</h2>
 <div align="center">
-<img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/main/assets/icons/mongo.png"/>
-<img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/main/assets/icons/express.png"/>
-<img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/main/assets/icons/react.png"/>
-<img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/main/assets/icons/node.png"/>
+<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/mongodb-40.png"/>
+<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/express-js-40.png"/>
+<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/react-40.png"/>
+<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/nodejs-40.png"/>
 </div>
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/main/assets/icons/HTML.png"/>
 <img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/main/assets/icons/JavaScript.png"/>
