@@ -44,11 +44,12 @@
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/main/assets/icons/HTML.png"/>
-<img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/main/assets/icons/JavaScript.png"/>
-<img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/main/assets/icons/css.png"/>
-<img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/main/assets/icons/firebase.png"/>
-<img src="https://raw.githubusercontent.com/m-minhajul-alam/m-minhajul-alam/main/assets/icons/tailwind.png"/>
+<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/html-40.png"/>
+<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/css-40.png"/>
+<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/js-40.png"/>
+<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/firebase-40.png"/>
+<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/tailwind-css-40.png"/>
+<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/material-ui-40.png"/>
 </div>
 
 <br>
