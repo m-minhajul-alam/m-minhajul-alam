@@ -25,9 +25,9 @@
 <img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/social-icons/email-40.png"/>
 </a>
 
-<a href="https://www.facebook.com/profile.php?id=100076427079652">
+<!-- <a href="https://www.facebook.com/profile.php?id=100076427079652">
 <img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/social-icons/facebook-40.png"/>
-</a>
+</a> -->
 </div>
 
 <br>
