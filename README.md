@@ -45,7 +45,7 @@
 <img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/js-40.png"/>
 <img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/firebase-40.png"/>
 <img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/tailwind-css-40.png"/>
-<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/material-ui-40.png"/>
+<!-- <img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/material-ui-40.png"/> -->
 </div>
 
 <br>
