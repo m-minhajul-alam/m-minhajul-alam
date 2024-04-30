@@ -1,6 +1,5 @@
 <img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/banner/muhammad-minhajul-alam-github-banner.png" alt="Muhammad Minhajul Alam github banner" />
 
-
 <br>
 <h2 align="center">Ab<ins>out</ins>Me</h2>
  
@@ -14,7 +13,7 @@
 <br>
 <h2 align="center">Co<ins>ntact</ins>Me</h2>
 <div align="center">
-<a href="https://www.linkedin.com/in/muhammad-minhajul-alam-b66767256/">
+<a href="https://www.linkedin.com/in/muhammad-minhajul-alam78">
 <img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/social-icons/linkedin-40.png"/>
 </a>
 
@@ -26,9 +25,6 @@
 <img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/social-icons/email-40.png"/>
 </a>
 
-<!-- <a href="https://www.facebook.com/profile.php?id=100076427079652">
-<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/social-icons/facebook-40.png"/>
-</a> -->
 </div>
 
 <br>
