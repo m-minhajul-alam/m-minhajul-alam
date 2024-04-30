@@ -1,4 +1,5 @@
-<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/banner/muhammad_minhajul_alam_github_banner.png" alt="Muhammad Minhajul Alam github banner" />
+<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/banner/muhammad-minhajul-alam-github-banner.png" alt="Muhammad Minhajul Alam github banner" />
+
 
 <br>
 <h2 align="center">Ab<ins>out</ins>Me</h2>
