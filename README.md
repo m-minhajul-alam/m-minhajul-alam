@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello! 👋 I'm Minhaj, a dedicated student in the field of web development. I've recently completed my foundational learning in React development. My coding journey began with HTML, CSS, JavaScript, and React.js. While my primary focus is on Front-end development, I also possess a good understanding of Node.js, Express.js, and MongoDB. Currently, I'm honing my skills in advanced React.js concepts to further optimize my Front-end capabilities. I'm fueled by the joy of continuous learning and aspire to contribute to innovative projects that positively impact the digital world or human life. My core values revolve around morality, continuous learning, and supporting others. I approach tasks with honesty and curiosity, seeing challenges as opportunities for personal and professional growth.
+👋 Hello! I'm Minhaj, a passionate web developer. My journey started with HTML, CSS, JavaScript, and React.js. Now, I'm diving deep into the advanced concept of the MERN stack to enhance my skills. I'm driven by continuous learning and aspire to contribute to impactful projects. My values: honesty, curiosity, and supporting others. Challenges? Opportunities for growth! 🌱✨
 
 ## Current Overview
 
