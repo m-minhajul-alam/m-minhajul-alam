@@ -41,3 +41,5 @@
 - 📝 TypeScript
 
 ---
+
+<sub>Updated on May 2024</sub>
