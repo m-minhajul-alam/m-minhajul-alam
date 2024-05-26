@@ -21,14 +21,14 @@ Hello! 👋 I'm Minhaj, a dedicated student in the field of web development. I'v
 
 ## Technologies
 
-<div align="center">
+<div>
   <img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/mongodb-40.png" alt="MongoDB"/>
   <img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/express-js-40.png" alt="Express.js"/>
   <img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/react-40.png" alt="React.js"/>
   <img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/nodejs-40.png" alt="Node.js"/>
 </div>
 
-<div align="center">
+<div>
   <img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/html-40.png" alt="HTML"/>
   <img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/css-40.png" alt="CSS"/>
   <img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/js-40.png" alt="JavaScript"/>
@@ -38,7 +38,7 @@ Hello! 👋 I'm Minhaj, a dedicated student in the field of web development. I'v
 
 ## Current Stats
 
-<div align="center">
+<div>
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=m-minhajul-alam&theme=travelers-theme&hide_border=true)](https://git.io/streak-stats" alt="GitHub Streak" />
 </div>
 
