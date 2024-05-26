@@ -49,8 +49,7 @@
 <h2 align="center">Cu<ins>rrentSta</ins>ts</h2>
 
 <div align="center">
-<!-- <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=m-minhajul-alam&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=502" alt="GitHub Streak" /> -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m-minhajul-alam&theme=travelers-theme&hide_border=true)](https://git.io/streak-stats)
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=m-minhajul-alam&theme=travelers-theme&hide_border=true)](https://git.io/streak-stats" alt="GitHub Streak" />
 </div>
 
 <br>
