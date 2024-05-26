@@ -1,8 +1,8 @@
 # Muhammad Minhajul Alam
 
-![Muhammad Minhajul Alam github banner](https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/banner/muhammad-minhajul-alam-github-banner.png)
+<!-- ![Muhammad Minhajul Alam github banner](https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/banner/muhammad-minhajul-alam-github-banner.png) -->
 
-## GitHub Streak
+<!-- ## GitHub Streak -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m-minhajul-alam&theme=travelers-theme&hide_border=true)](https://git.io/streak-stats)
 
