@@ -2,6 +2,10 @@
 
 ![Muhammad Minhajul Alam github banner](https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/banner/muhammad-minhajul-alam-github-banner.png)
 
+## GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m-minhajul-alam&theme=travelers-theme&hide_border=true)](https://git.io/streak-stats)
+
 ## About Me
 
 👋 Hello! I'm Minhaj, a passionate web developer. My journey started with HTML, CSS, JavaScript, and React.js. Now, I'm diving deep into the advanced concept of the MERN stack to enhance my skills. I'm driven by continuous learning and aspire to contribute to impactful projects. My values: honesty, curiosity, and supporting others. Challenges? Opportunities for growth! 🌱✨
@@ -32,9 +36,5 @@
 - 🔥 Firebase
 - 🌐 Express.js
 - 🌈 Tailwind CSS
-
-## GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m-minhajul-alam&theme=travelers-theme&hide_border=true)](https://git.io/streak-stats)
 
 ---
