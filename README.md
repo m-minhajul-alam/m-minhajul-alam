@@ -42,4 +42,4 @@
 
 ---
 
-<sub style="color: #A9A9A9;">Updated on May 2024</sub>
+<sub style="color: #92ff00;">Updated on May 2024</sub>
