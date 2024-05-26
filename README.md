@@ -12,14 +12,14 @@
 🌱 **Currently learning:** Advanced React.js concepts to enhance my frontend skills.  
 👯 **Looking to collaborate on:** Open-source projects and innovative web applications.  
 🤔 **Looking for help with:** Scaling and optimizing backend solutions in Node.js.  
-📫 **How to reach me:** [minhajulalam.muhammad@gmail.com](mailto:minhajulalam.muhammad@gmail.com)  
+📫 **How to reach me:** (minhajulalam.muhammad@gmail.com)  
 ⚡ **Fun fact:** Coding fuels my creativity, and I enjoy exploring new technologies.
 
 ## Contact Me
 
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-minhajul-alam78)
-🌐 [Website](https://m-minhajul-alam.surge.sh)
-✉️ [Email](mailto:minhajulalam.muhammad@gmail.com?subject=Portfolio%20Inquiry&body=Hello%20Minhajul,%0A%0AI%20came%20across%20your%20portfolio%20and%20would%20like%20to%20inquire%20about...)
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-minhajul-alam78)  
+🌐 [Portfolio](https://m-minhajul-alam.surge.sh)  
+✉️ [Email](minhajulalam.muhammad@gmail.com)
 
 ## Technologies
 
