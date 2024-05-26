@@ -1,109 +1,45 @@
-<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/banner/muhammad-minhajul-alam-github-banner.png" alt="Muhammad Minhajul Alam github banner" />
+# Muhammad Minhajul Alam
 
-<br>
-<h2 align="center">Ab<ins>out</ins>Me</h2>
- 
-<p align="center">Hello 👋 there! I'm Minhaj, I consider myself a dedicated student in the web development field. I've recently finished the basic learnings of React development. I started my coding journey with basic skills, like HTML, CSS, JavaScript, and React.js. As my starting my main focus is on Front-end development, but I also have a good level of knowledge about Node.js, Express.js, and MongoDB. Currently, I'm Improving my skills in advanced React.js concepts to optimize my Front-end capabilities. I get inspiration from the joy of continuous learning. My goal is not only to succeed in web development. rather than my goal to contribute to innovative projects that make a positive impact on the digital world or human life. My core values around morality, continuous learning, and supporting others. I handle tasks with honesty and stay curious. I see challenges as chances for my personal and professional growth.</p>
+![Muhammad Minhajul Alam github banner](https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/banner/muhammad-minhajul-alam-github-banner.png)
 
-<br>
-<h2 align="center">Cu<ins>rrentOvervi</ins>ew</h2>
- 
-<p align="center">🔭 Currently working on: My existing projects to take them next level. || 🌱 Currently learning: Advanced React.js concepts to enhance my frontend skills. || 👯 Looking to collaborate on: Open-source projects and innovative web applications. || 🤔 Looking for help with: Scaling and optimizing backend solutions in Node.js. || 📫 How to reach me: minhajulalam.muhammad@gmail.com || ⚡ Fun fact: Coding fuels my creativity, and I enjoy exploring new technologies. 🚀</p>
+## About Me
 
-<br>
-<h2 align="center">Co<ins>ntact</ins>Me</h2>
+Hello! 👋 I'm Minhaj, a dedicated student in the field of web development. I've recently completed my foundational learning in React development. My coding journey began with HTML, CSS, JavaScript, and React.js. While my primary focus is on Front-end development, I also possess a good understanding of Node.js, Express.js, and MongoDB. Currently, I'm honing my skills in advanced React.js concepts to further optimize my Front-end capabilities. I'm fueled by the joy of continuous learning and aspire to contribute to innovative projects that positively impact the digital world or human life. My core values revolve around morality, continuous learning, and supporting others. I approach tasks with honesty and curiosity, seeing challenges as opportunities for personal and professional growth.
+
+## Current Overview
+
+🔭 **Currently working on:** Elevating my existing projects to the next level.  
+🌱 **Currently learning:** Advanced React.js concepts to enhance my frontend skills.  
+👯 **Looking to collaborate on:** Open-source projects and innovative web applications.  
+🤔 **Looking for help with:** Scaling and optimizing backend solutions in Node.js.  
+📫 **How to reach me:** [minhajulalam.muhammad@gmail.com](mailto:minhajulalam.muhammad@gmail.com)  
+⚡ **Fun fact:** Coding fuels my creativity, and I enjoy exploring new technologies.
+
+## Contact Me
+
+[LinkedIn](https://www.linkedin.com/in/muhammad-minhajul-alam78) | [Website](https://m-minhajul-alam.surge.sh) | [Email](mailto:minhajulalam.muhammad@gmail.com?subject=Portfolio%20Inquiry&body=Hello%20Minhajul,%0A%0AI%20came%20across%20your%20portfolio%20and%20would%20like%20to%20inquire%20about...)
+
+## Technologies
+
 <div align="center">
-<a href="https://www.linkedin.com/in/muhammad-minhajul-alam78">
-<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/social-icons/linkedin-40.png"/>
-</a>
-
-<a href="https://m-minhajul-alam.surge.sh">
-<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/social-icons/website-40.png"/>
-</a>
-
-<a href="mailto:minhajulalam.muhammad@gmail.com?subject=Portfolio%20Inquiry&body=Hello%20Minhajul,%0A%0AI%20came%20across%20your%20portfolio%20and%20would%20like%20to%20inquire%20about...">
-<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/social-icons/email-40.png"/>
-</a>
-
-</div>
-
-<br>
-<h2 align="center">Te<ins>chnologi</ins>es</h2>
-<div align="center">
-<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/mongodb-40.png"/>
-<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/express-js-40.png"/>
-<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/react-40.png"/>
-<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/nodejs-40.png"/>
+  <img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/mongodb-40.png" alt="MongoDB"/>
+  <img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/express-js-40.png" alt="Express.js"/>
+  <img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/react-40.png" alt="React.js"/>
+  <img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/nodejs-40.png" alt="Node.js"/>
 </div>
 
 <div align="center">
-<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/html-40.png"/>
-<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/css-40.png"/>
-<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/js-40.png"/>
-<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/firebase-40.png"/>
-<img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/tailwind-css-40.png"/>
-<!-- <img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/material-ui-40.png"/> -->
+  <img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/html-40.png" alt="HTML"/>
+  <img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/css-40.png" alt="CSS"/>
+  <img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/js-40.png" alt="JavaScript"/>
+  <img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/firebase-40.png" alt="Firebase"/>
+  <img src="https://github.com/m-minhajul-alam/m-minhajul-alam/blob/main/assets/icons/skill-icons/tailwind-css-40.png" alt="Tailwind CSS"/>
 </div>
 
-<br>
-<h2 align="center">Cu<ins>rrentSta</ins>ts</h2>
+## Current Stats
 
 <div align="center">
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=m-minhajul-alam&theme=travelers-theme&hide_border=true)](https://git.io/streak-stats" alt="GitHub Streak" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=m-minhajul-alam&theme=travelers-theme&hide_border=true)](https://git.io/streak-stats" alt="GitHub Streak" />
 </div>
 
-<br>
-<br>
-
-<h1 align="center">My<ins>Projec</ins>ts</h1>
-
-## [ Care Camp:](https://carecamp-b8a12fe-abcd-minhajul.surge.sh/)(https://carecamp-b8a12fe-abcd-minhajul.surge.sh/)
-
-There are some of Feature of this project:
-
-- Users can sign up or log in using their email credentials or Google account.
-- The home page showcases popular camps, providing users with a quick overview.
-- The available route displays a comprehensive list of all camps for user exploration.
-- Clicking the "Detail" button navigates users to a dedicated route where they can view detailed information about a specific camp.
-- Users can join a camp by clicking the "Join Camp" button, facilitating easy registration.
-- The dashboard route enables users to manage their registered camps and provides an overview of their profile.
-- In the dashboard, users have access to their profile information.
-- Users can provide feedback through a dedicated route, enhancing communication and user engagement.
-
-<br>
-
-## [ Auto Hub:](https://autohub-b8a10-abcd.surge.sh/)(https://autohub-b8a10-abcd.surge.sh/)
-
-There are some of Feature of this project:
-
-- User can Register, Login and Logout in this website.
-- User also can Register with Google.
-- When user register in this website thy can see his/her Profile Picture, Name and Logout button in Navbar.
-- There have an Add Product page where there will be user can add a product.
-- In My Cart page where user will see all his/her added products.
-- In home page user also can see Populer Brand name with logo.
-- When user click a brand the user will redirect to the page having products.
-- When user click on the Details button the user will redirect to the product detail route.
-- When user click on the Add to Cart button the product information will store in to the database.
-- When user click on the Update button it will redirect the user to a form page where user can update product details.
-- User can change dark/light theme by clicking toggle button on Navbar.
-
-<br>
-
-## [ Write Wave:](https://writewave-b8a11-ac0006-minhaj.surge.sh/)(https://writewave-b8a11-ac0006-minhaj.surge.sh/)
-
-There are some of Feature of this project:
-
-- Conditional display of Login and Register buttons for not logged in users or profile picture and logout button for logged in users.
-- Display of six recent blogs section.
-- Newsletter section allows users to subscribe Newsletter.
-- Filter blogs by category and provide a search field to search by title.
-- Each blog includes title, image, description, category, details button, and wishlist button.
-- Show detailed information about a blog, including title, image, short and long descriptions in Blog Detail page.
-- Users can comment, and comments include owner name and profile picture.
-- Users cannot comment on their own blogs.
-- Conditional update button for blog owners to edit blog details.
-- Use a dropdown for the category selection.
-- Logged-in users can edit blogs they added.
-- Display the top 10 posts based on the word count in the long description in FeatureBlog page.
-- Implement email and password-based authentication for registration and login.
+---
