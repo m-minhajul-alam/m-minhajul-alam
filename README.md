@@ -42,4 +42,4 @@
 
 ---
 
-<span style="font-size: smaller;">Updated on May 2024</span>
+<sub>Updated on May 2024</sub>
