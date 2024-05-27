@@ -32,13 +32,13 @@
 - 💻 HTML
 - 🎨 CSS
 - 🚀 JavaScript
+- 📝 TypeScript
 - ⚛️ React.js
+- 🌈 Tailwind CSS
 - 📦 Node.js
+- 🌐 Express.js
 - 📊 MongoDB (with Mongoose)
 - 🔥 Firebase
-- 🌐 Express.js
-- 🌈 Tailwind CSS
-- 📝 TypeScript
 
 ---
 
