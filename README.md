@@ -1,6 +1,6 @@
 # Minhajul's Profile
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m-minhajul-alam&theme=travelers-theme&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=900&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m-minhajul-alam&theme=calm-pink&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=951&background=0D1117)](https://git.io/streak-stats)
 
 ## About Me
 
