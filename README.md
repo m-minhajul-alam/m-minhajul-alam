@@ -35,6 +35,7 @@
 - 📝 TypeScript
 - ⚛️ React.js
 - 🌈 Tailwind CSS
+- 🖌️ Material UI
 - 📦 Node.js
 - 🌐 Express.js
 - 📊 MongoDB (with Mongoose)
