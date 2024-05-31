@@ -34,6 +34,7 @@
 - 🚀 JavaScript
 - 📝 TypeScript
 - ⚛️ React.js
+- 🔄 Next.js
 - 🌈 Tailwind CSS
 - 🖌️ Material UI
 - 📦 Node.js
