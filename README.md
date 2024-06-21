@@ -1,4 +1,4 @@
-# Minhajul's Profile
+# Muhammad Minhajul Alam
 
 ## About Me
 
