@@ -15,11 +15,11 @@
 - 📫 **How to reach me:** [minhajulalam.muhammad@gmail.com](mailto:minhajulalam.muhammad@gmail.com)
 - ⚡ **Fun fact:** I enjoy making web applications with React and Tailwind CSS.
 
-## Contact Me
+<!-- ## Contact Me -->
 
-- 🔗 **LinkedIn:** [in/muhammad-minhajul-alam78](https://www.linkedin.com/in/muhammad-minhajul-alam78)
-- 🌐 **Portfolio:** [m-minhajul-alam.surge.sh](https://m-minhajul-alam.surge.sh)
-- ✉️ **Email:** [minhajulalam.muhammad@gmail.com](mailto:minhajulalam.muhammad@gmail.com)
+<!-- - 🔗 **LinkedIn:** [in/](https://www.linkedin.com/in/) -->
+<!-- - 🌐 **Portfolio:** []() -->
+<!-- - ✉️ **Email:** [minhajulalam.muhammad@gmail.com](mailto:minhajulalam.muhammad@gmail.com) -->
 
 ## Technologies
 
